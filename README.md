@@ -1,8 +1,8 @@
 ## 🌟 Hi, I’m Prachi!
 
-I’m a data and business analyst with a passion for turning messy data into meaningful, actionable insights. I’ve recently wrapped up my MSc in Management at the University of Birmingham, where I honed my skills in digital business, analytics, and operations management.
+I’m a Business Analyst with a strong foundation in analytics and a passion for solving complex business challenges. At Capgemini, I worked as a Senior Analyst where I collaborated with stakeholders to gather requirements, design data-driven solutions, and deliver actionable insights that supported strategic initiatives.
 
-With over 2 years of experience (including my time at Capgemini as a Senior Analyst and now diving deep as a Business Analyst Intern), I’ve worked on everything from building data-driven APIs and crafting dashboards to predicting churn and analyzing corporate e-learning KPIs. Whether it’s SQL, Python, Tableau, or Excel—I’m all about using the right tools to drive decisions that matter.
+From building dashboards and analyzing corporate e-learning KPIs to predicting customer churn and developing API-based reporting solutions, I’ve helped teams make smarter, faster decisions. With expertise in SQL, Python, Tableau, and Excel, I thrive on translating business needs into clear, data-backed recommendations that drive results.
 
 💻 Skills I bring to the table:
 
